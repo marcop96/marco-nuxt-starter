@@ -7,4 +7,4 @@ Contains TailwindCSS, ESLint and Nuxt to easily start your project with just one
 
 To get this project on your computer clone the repository:
 
-npx degit marcop96/nuxt-marco-starter your-project-name
+npx degit marcop96/marco-nuxt-starter your-project-name
